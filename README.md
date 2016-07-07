@@ -12,7 +12,7 @@ open http://localhost:3000
 
 ---
 
-### Original `README.md` for React Hot Boilerplate
+### Original `README.md` for [React Hot Boilerplate](https://github.com/gaearon/react-hot-boilerplate)
 
 ---
 
