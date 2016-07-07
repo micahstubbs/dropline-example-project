@@ -1,7 +1,7 @@
 {
   "name": "dropline-example-project",
   "version": "0.1.0",
-  "description": "an example project that uses webpackl to load the dropline module",
+  "description": "an example project that uses webpack to load the dropline module",
   "scripts": {
     "start": "node server.js",
     "lint": "eslint src"
@@ -23,15 +23,15 @@
   ],
   "author": "@micahstubbs <micah.stubbs@gmail.com> (https://twitter.com/micahstubbs)",
   "contributors": [
-    { 
-      "name" : "Dan Abramov",
-      "email" : "dan.abramov@me.com", 
-      "url" : "http://github.com/gaearon"
+    {
+      "name": "Dan Abramov",
+      "email": "dan.abramov@me.com",
+      "url": "http://github.com/gaearon"
     },
-    { 
-      "name" : "@micahstubbs",
-      "email" : "micah.stubbs@gmail.com", 
-      "url" : "https://twitter.com/micahstubbs"
+    {
+      "name": "@micahstubbs",
+      "email": "micah.stubbs@gmail.com",
+      "url": "https://twitter.com/micahstubbs"
     }
   ],
   "license": "MIT",
@@ -53,6 +53,7 @@
     "webpack-dev-server": "^1.12.1"
   },
   "dependencies": {
+    "dropline": "^0.1.2",
     "react": "^0.14.6",
     "react-dom": "^0.14.6"
   }
